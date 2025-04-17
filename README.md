@@ -1,6 +1,6 @@
 # AluraStore
 Projeto Data Science para análise dos dados das quatros lojas do Sr João para orientá-lo na decisão de venda de uma das lojas. 
-<h1 align="center"> Bem-vindo a minha análise!
+<h1 align="center"> Bem-vindo ao meu projeto!
  
  ## Sobre mim
  Sou Marcos Lino do Rio de Janeiro, Brazil
