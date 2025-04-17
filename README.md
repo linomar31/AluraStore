@@ -8,19 +8,24 @@ Projeto Data Science para análise dos dados das quatros lojas do Sr João para 
 </div>
  
 ## Detalhes do Projeto:
-- Analisar os dados das lojas:
-avaliar informações como faturamento, categorias mais vendidas, avaliações dos clientes, produtos mais vendidos e frete médio.
-Criar gráficos para visualização:
-gráficos de barras, pizza, dispersão.
-
-Apresentar um Relatório:
-explicar qual loja o Senhor João deve vender e por quê, com base nos dados apresentados.
+### Analisar os dados das lojas:
+- Avaliação das informações como faturamento, categorias mais vendidas, avaliações dos clientes, produtos mais vendidos e frete médio.
+### Criar gráficos para visualização:
+- Usar gráficos para apresentar os resultados de maneira clara e visual.
+- incluir gráficos de barras, pizza, dispersão, entre outros.
+### Apresentar uma recomendação:
+- Escrever um relatório explicando qual loja o Senhor João deve vender e por quê, com base nos dados apresentados.
 
 ## Projeto para Data Science da Alura no ONE+ Oracle
-| Python   |
-| Google Colab     |
-| Panda     |
-| Data Cience|
+
+## Ferramentas utilizadas
+- 🐍 **Python**
+- 📊 **NumPy**
+- 🐼 **Pandas**
+- 📉 **Matplotlib**
+- 🌊 **Seaborn**
+- 🗺️ **Folium**
+
 
 ## Contato
 <a href="https://www.linkedin.com/in/marcoslinoti" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
