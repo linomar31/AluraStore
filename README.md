@@ -88,7 +88,7 @@ Cada arquivo CSV contém as seguintes colunas principais:
 - **Produtos em Destaque:** Top 5 mais e menos vendidos em cada loja.
 - **Visualizações:** Gráficos de barras, linhas, dispersão e pizza para melhor compreensão dos dados.
 
-<sub>Inclua imagens/gráficos se desejar.</sub>
+<img src="https://github.com/linomar31/AluraStore/blob/main/Imagens/Faturamento%20por%20loja.png" alt="Logo da Alura" width="350" height="250"> <img src="https://github.com/linomar31/AluraStore/blob/main/Imagens/avalia%C3%A7%C3%A3o.png" alt="Logo da Alura" width="350" height="250"> <img src="https://github.com/linomar31/AluraStore/blob/main/Imagens/frete%20m%C3%A9dio.png" alt="Logo da Alura" width="350" height="250"> <img src="https://github.com/linomar31/AluraStore/blob/main/Imagens/vendas%20por%20local.png" alt="Logo da Alura" width="400" height="250">
 
 ---
 
