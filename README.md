@@ -2,14 +2,14 @@
 Projeto Data Science para análise dos dados das quatros lojas do Sr João para orientá-lo na decisão de venda de uma das lojas. 
 <h1 align="center"> Bem-vindo ao meu projeto!
 <div> 
- ## Sobre mim
- Sou Marcos Lino do Rio de Janeiro, Brazil
+
 <picture> 
 <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/8dc8aca5-0f08-4be2-a9cd-56ebe13e35e4">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/f288b965-e12b-486a-87a9-15aa9a343746">
  <img alt="Badge do desafio" src width="30%" srcset="https://github.com/user-attachments/assets/8f1b33af-cbae-4dce-98a4-0b13491664b8">
 </picture>
 </div>
+ Sou Marcos Lino do Rio de Janeiro, Brazil
  
 ## Detalhes do Projeto:
 ### Analisar os dados das lojas:
